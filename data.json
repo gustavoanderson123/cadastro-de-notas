@@ -1,0 +1,28 @@
+{
+  "empresas": [
+    {
+      "id": 1,
+      "name": "Laboratórios República",
+      "cnpj": "32.257.747/0001-16",
+      "tax_regime": "MEI",
+      "email": "contato@laboratóriosrepública.com",
+      "site": "www.laboratóriosrepública.com.br"
+    },
+    {
+      "name": "Floricultura República",
+      "cnpj": "74.335.854/0001-65",
+      "tax_regime": "MEI",
+      "email": "contato@xn--floriculturarepblica-wdc.com",
+      "site": "www.floriculturarepública.com.br",
+      "id": 2
+    },
+    {
+      "name": "Posto Nova Era",
+      "cnpj": "83.565.826/0001-25",
+      "tax_regime": "MEI",
+      "email": "contato@postonovaera.com",
+      "site": "www.postonovaera.com.br",
+      "id": 3
+    }
+  ]
+}
